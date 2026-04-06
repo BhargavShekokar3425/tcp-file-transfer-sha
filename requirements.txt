@@ -1,0 +1,6 @@
+# This project uses only the Python standard library (sockets, threading, tkinter).
+# No external pip packages are required.
+sockets
+threading
+tkinter
+protocols

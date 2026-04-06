@@ -1,0 +1,11 @@
+name: tcp-file-transfer-sha
+channels:
+  - conda-forge
+dependencies:
+  - python=3.12
+  - pip
+  - pip:
+      # No third-party libraries needed; keep empty for clarity.
+      - ""
+env_vars:
+  PYTHONPATH: .
